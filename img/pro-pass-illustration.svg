@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+    <defs>
+        <path id="a" d="M2.56 0h59.366a2.56 2.56 0 0 1 2.56 2.56v42.127L51.589 57.455H2.56A2.56 2.56 0 0 1 0 54.895V2.56A2.56 2.56 0 0 1 2.56 0z"/>
+        <path id="c" d="M2.56 0h59.366a2.56 2.56 0 0 1 2.56 2.56v42.127L51.589 57.455H2.56A2.56 2.56 0 0 1 0 54.895V2.56A2.56 2.56 0 0 1 2.56 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="#4E4E4E" stroke-dasharray="4" d="M149 231c45.287 0 82-36.713 82-82s-36.713-82-82-82-82 36.713-82 82 36.713 82 82 82z"/>
+        <g transform="translate(116 118)">
+            <g transform="translate(1.935 5.745)">
+                <mask id="b" fill="#fff">
+                    <use xlink:href="#a"/>
+                </mask>
+                <use fill="#2A2A2A" xlink:href="#a"/>
+                <path fill="#707070" d="M0 0h64.486v12.768H0z" mask="url(#b)" opacity=".2"/>
+                <path fill="#373737" stroke="#707070" stroke-width="1.28" d="M51.589 44.687h12.897v12.768H51.589z" mask="url(#b)"/>
+            </g>
+            <g transform="translate(1.935 5.745)">
+                <mask id="d" fill="#fff">
+                    <use xlink:href="#c"/>
+                </mask>
+                <use fill="#2A2A2A" xlink:href="#c"/>
+                <path d="M0 0h64.486v12.768H0z" mask="url(#d)" opacity=".2"/>
+            </g>
+            <path fill="#4B4B4B" d="M1.935 17.875h59.972v1.277H1.935z"/>
+            <path fill="#2A2A2A" d="M27.729 11.491h12.897v1.277H27.729z"/>
+            <g fill="#707070" opacity=".2">
+                <path d="M19.346 26.812h1.29v28.09h-1.29zM33.533 26.812h1.29v28.09h-1.29zM47.72 26.812h1.29v28.09h-1.29z"/>
+                <path stroke="#2A2A2A" stroke-width="1.28" d="M9.678 33.833h49v2.557h-49zM9.678 44.047h49v2.557h-49z"/>
+            </g>
+            <path stroke="#707070" stroke-width="1.28" d="M19.99 5.745h32.244m3.869 0H66.42v44.687L53.523 63.2H1.935V5.745H16.12"/>
+            <path fill="#2A2A2A" d="M0 19.152h4.514v2.554H0zM64.486 47.24H69v2.554h-4.514z"/>
+            <ellipse cx="16.121" cy="12.129" fill="#2A2A2A" stroke="#707070" stroke-width="1.28" rx="1.935" ry="1.915"/>
+            <ellipse cx="52.234" cy="12.129" fill="#2A2A2A" stroke="#707070" stroke-width="1.28" rx="1.935" ry="1.915"/>
+            <path fill="#707070" d="M16.112 0h.02c.706 0 1.28.573 1.28 1.28v8.934h-2.58V1.28c0-.707.573-1.28 1.28-1.28zM52.224 0h.02c.706 0 1.28.573 1.28 1.28v8.934h-2.58V1.28c0-.707.573-1.28 1.28-1.28z"/>
+            <ellipse cx="14.187" cy="29.366" fill="#30A462" rx="1.935" ry="1.915"/>
+            <ellipse cx="27.084" cy="29.366" fill="#232323" rx="1.29" ry="1.277"/>
+            <ellipse cx="41.271" cy="29.366" fill="#232323" rx="1.29" ry="1.277"/>
+            <ellipse cx="54.168" cy="29.366" fill="#232323" rx="1.29" ry="1.277"/>
+            <ellipse cx="14.187" cy="40.218" fill="#232323" rx="1.29" ry="1.277"/>
+            <ellipse cx="27.084" cy="40.218" fill="#232323" rx="1.29" ry="1.277"/>
+            <ellipse cx="26.807" cy="40.218" fill="#FF5780" rx="1.935" ry="1.915"/>
+        </g>
+        <path stroke="#3B3B3B" stroke-dasharray="2,6" d="M150 299c82.29 0 149-66.71 149-149S232.29 1 150 1 1 67.71 1 150s66.71 149 149 149z"/>
+    </g>
+</svg>
